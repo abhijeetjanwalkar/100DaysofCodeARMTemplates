@@ -6,18 +6,17 @@
     "variables": {},
     "resources": [
         {
-            "name": "daysofcodeday2storage",
+            "name": "100daysofcodeday2storage",
             "type": "Microsoft.Storage/storageAccounts",
             "apiVersion": "2019-06-01",
             "tags": {
-                "displayName": "daysofcodeday2SA"
+                "displayName": "100daysofcodeday2SA"
             },
             "location": "[resourceGroup().location]",
             "kind": "StorageV2",
             "sku": {
                 "name": "Standard_LRS",
                 "tier": "Standard"
-                
             }
         }
     ],

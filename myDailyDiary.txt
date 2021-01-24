@@ -1,0 +1,23 @@
+So I had finished my Day 1 of 100.
+I finished following modules from the  MS Course
+1) https://docs.microsoft.com/en-us/learn/modules/create-azure-resource-manager-template-vs-code/1-introduction
+2) https://docs.microsoft.com/en-us/learn/modules/create-azure-resource-manager-template-vs-code/2-explore-template-structure
+
+
+
+Commands used
+  
+	az account set --subscription <subscriptionID>
+	az account list-locations -o table
+	az group create --name 100daysofCodeARMTemplate --location eastus
+	az deployment group create --name blanktemplate --resource-group 100daysofCodeARMTemplate --template-file "C:\<Path>\100DaysofCodeARMTemplates\Day1of100\Day1_createStorage.json"
+
+Created a branch called Develop on my repo and pushed the first ARM Template there.
+
+
+Day2of100
+
+What I learnt today.
+1) https://docs.microsoft.com/en-us/learn/modules/create-azure-resource-manager-template-vs-code/3-exercise-create-and-deploy-template?pivots=powershell
+
+Created a small ARM Template following the guide.
