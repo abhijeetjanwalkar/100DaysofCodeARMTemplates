@@ -21,3 +21,10 @@ What I learnt today.
 1) https://docs.microsoft.com/en-us/learn/modules/create-azure-resource-manager-template-vs-code/3-exercise-create-and-deploy-template?pivots=powershell
 
 Created a small ARM Template following the guide.
+
+Day3of100
+1) https://docs.microsoft.com/en-us/learn/modules/create-azure-resource-manager-template-vs-code/4-add-flexibility-arm-template
+2) https://docs.microsoft.com/en-us/learn/modules/create-azure-resource-manager-template-vs-code/5-exercise-parameters-output?pivots=powershell
+3) https://docs.microsoft.com/en-us/learn/modules/create-azure-resource-manager-template-vs-code/6-knowledge-check
+and finished the first Module.
+
