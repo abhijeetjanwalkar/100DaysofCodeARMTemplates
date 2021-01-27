@@ -33,3 +33,14 @@ Day4of100 Date: 26/01/2021
 2) https://docs.microsoft.com/en-us/learn/modules/modify-azure-resource-manager-template-reuse/2-azure-resource-manager-functions
 3) https://docs.microsoft.com/en-us/learn/modules/modify-azure-resource-manager-template-reuse/3-exercise-use-functions-create-expression?pivots=powershell
 4) https://docs.microsoft.com/en-us/learn/modules/modify-azure-resource-manager-template-reuse/4-azure-resource-manager-variables
+
+Day5of100 Date: 27/04/2021
+today i finished following sections from the MS Course.
+https://docs.microsoft.com/en-us/learn/modules/modify-azure-resource-manager-template-reuse/5-exercise-use-variables-store-expressions?pivots=powershell
+https://docs.microsoft.com/en-us/learn/modules/modify-azure-resource-manager-template-reuse/6-azure-resource-manager-tags-parameter-files
+https://docs.microsoft.com/en-us/learn/modules/modify-azure-resource-manager-template-reuse/7-exercise-use-tags-parameter-files?pivots=powershell
+https://docs.microsoft.com/en-us/learn/modules/modify-azure-resource-manager-template-reuse/8-knowledge-check
+https://docs.microsoft.com/en-us/learn/modules/modify-azure-resource-manager-template-reuse/9-summary
+
+This finishes Module 2 of the course.
+Nice progress made in last 5 days.
