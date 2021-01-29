@@ -53,4 +53,14 @@ using code from MS course.
 2) https://docs.microsoft.com/en-us/learn/modules/arm-template-test/2-what-if
 3) https://docs.microsoft.com/en-us/learn/modules/arm-template-test/3-exercise-what-if?pivots=powershell
 4) https://docs.microsoft.com/en-us/learn/modules/arm-template-test/4-test-toolkit
-5) 
+
+Day7of100 29/01/2021
+Today i finished following sections, it was more go through the documents.
+1) https://docs.microsoft.com/en-us/learn/modules/arm-template-test/5-exercise-test-toolkit?pivots=windows
+2) https://docs.microsoft.com/en-us/learn/modules/arm-template-test/6-custom-tests
+3) https://docs.microsoft.com/en-us/learn/modules/arm-template-test/7-exercise-custom-tests?pivots=windows
+4) https://docs.microsoft.com/en-us/learn/modules/arm-template-test/8-knowledge-check?source=learn
+5) https://docs.microsoft.com/en-us/learn/modules/arm-template-test/9-summary
+
+Today it was more of optional things and need more of tick mark exercise.
+This completes Module 3 out of 6 Modules in the course.
