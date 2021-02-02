@@ -75,4 +75,22 @@ Expect to finish all the 100 days like this.
 4) https://docs.microsoft.com/en-us/learn/modules/deploy-templates-command-line-github-actions/4-linked-templates
 
 
+Missed last 2 days on some personal accounts
+so now continuing from where i left.
 
+Day9of100 Date 02/02/2021
+I finished and practiced following sections today.
+1) https://docs.microsoft.com/en-us/learn/modules/deploy-templates-command-line-github-actions/5-exercise-linked-templates?pivots=powershell
+2) https://docs.microsoft.com/en-us/learn/modules/deploy-templates-command-line-github-actions/6-github-actions
+3) https://docs.microsoft.com/en-us/learn/modules/deploy-templates-command-line-github-actions/7-exercise-github-actions
+
+4) 
+5) 
+
+Dayxxof100 Date 0x/02/2021
+I finished and practiced following sections today.
+1) 
+2) 
+3) 
+4) 
+5) 
