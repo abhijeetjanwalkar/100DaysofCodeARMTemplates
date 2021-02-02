@@ -31,5 +31,5 @@ jobs:
           scope: resourcegroup
           subscriptionId: ${{ env.AZURE_SUBSCRIPTION_ID }}
           resourceGroupName: ${{ env.AZURE_RESOURCE_GROUP }}
-          template: ./100DaysofCodeARMTemplates/Day9of100/azuredeploy.json
+          template: ./Day9of100/azuredeploy.json
   
