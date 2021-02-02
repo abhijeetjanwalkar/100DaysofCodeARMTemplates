@@ -84,7 +84,7 @@ I finished and practiced following sections today.
 2) https://docs.microsoft.com/en-us/learn/modules/deploy-templates-command-line-github-actions/6-github-actions
 3) https://docs.microsoft.com/en-us/learn/modules/deploy-templates-command-line-github-actions/7-exercise-github-actions
 4) https://docs.microsoft.com/en-us/learn/modules/deploy-templates-command-line-github-actions/8-knowledge-check
-5) 
+5) https://docs.microsoft.com/en-us/learn/modules/deploy-templates-command-line-github-actions/9-summary
 
 Dayxxof100 Date 0x/02/2021
 I finished and practiced following sections today.
