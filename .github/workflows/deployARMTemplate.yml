@@ -12,16 +12,19 @@ env:
   AZURE_SUBSCRIPTION_ID: ad7e5c4b-b5f4-4d4c-bb5d-9d4c6882675e
   AZURE_RESOURCE_GROUP: GitHubActionExercise-rg
   
+  
 jobs:
   deploy-virtual-network-template:
     runs-on: ubuntu-latest
     steps: 
       - name: Checkout Source Code
         uses: actions/checkout@main
+        
       - name: Login to Azure
         uses: azure/login@v1
         with: 
-          creds: ${{ secrets.AZURECREDENTIALS }}
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+         
       - name: Deploy ARM Template
         uses: azure/arm-deploy@v1
         with:
