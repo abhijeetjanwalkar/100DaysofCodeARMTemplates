@@ -86,6 +86,12 @@ I finished and practiced following sections today.
 4) https://docs.microsoft.com/en-us/learn/modules/deploy-templates-command-line-github-actions/8-knowledge-check
 5) https://docs.microsoft.com/en-us/learn/modules/deploy-templates-command-line-github-actions/9-summary
 
+This finishes module 4 out of 6.
+It was a good learning experience how to deploy template as a automated action from the repo directly.
+revision of something i m preparing for my Azure Devops Exam.
+This concludes day 9 and a fruitful of them so far.
+
+
 Dayxxof100 Date 0x/02/2021
 I finished and practiced following sections today.
 1) 
