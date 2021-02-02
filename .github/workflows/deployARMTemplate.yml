@@ -17,13 +17,13 @@ jobs:
     runs-on: ubuntu-latest
     steps: 
       - name: Checkout Source Code
-        uses: actions/checkout@master
+        uses: actions/checkout@main
       - name: Login to Azure
         uses: azure/login@v1
         with: 
           creds: ${{ secrets.AZURECREDENTIALS }}
       - name: Deploy ARM Template
-        uses: azure/arm-deploy@1
+        uses: azure/arm-deploy@v1
         with:
           scope: resourcegroup
           subscriptionId: ${{ env.AZURE.SUBSCRIPTION_ID }}
