@@ -7,7 +7,7 @@ on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
     branches:
-      - main
+      - develop
 env:
   AZURE_SUBSCRIPTION_ID: ad7e5c4b-b5f4-4d4c-bb5d-9d4c6882675e
   AZURE_RESOURCE_GROUP: GitHubActionExercise-rg
