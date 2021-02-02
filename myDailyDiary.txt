@@ -66,7 +66,7 @@ Today it was more of optional things and need more of tick mark exercise.
 This completes Module 3 out of 6 Modules in the course.
 
 Day8of100 30/01/2021
-I finished and practised following sections today.
+I finished and practiced following sections today.
 I can see the benefits of 100 days challenge, no matter what i do some things related to the challenge and keep the ball rolling.
 Expect to finish all the 100 days like this.
 1) https://docs.microsoft.com/en-us/learn/modules/deploy-templates-command-line-github-actions/1-introduction
