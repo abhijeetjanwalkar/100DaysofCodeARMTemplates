@@ -1,0 +1,32 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Deploy ARM Template
+
+# Controls when the action will run. 
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches:
+      - main
+env:
+  AZURE_SUBSCRIPTION_ID: ad7e5c4b-b5f4-4d4c-bb5d-9d4c6882675e
+  AZURE_RESOURCE_GROUP: GitHubActionExercise-rg
+  
+jobs:
+  deploy-virtual-network-template:
+    runs-on: ubuntu-latest
+    steps: 
+      - name: Checkout Source Code
+        uses: actions/checkout@master
+      - name: Login to Azure
+        uses: azure/login@v1
+        with: 
+          creds: ${{ secrets.AZURECREDENTIALS }}
+      - name: Deploy ARM Template
+        uses: azure/arm-deploy@1
+        with:
+          scope: resourcegroup
+          subscriptionId: ${{ env.AZURE.SUBSCRIPTION_ID }}
+          resourceGroupName: ${{ env.AZURE.RESOURCE_GROUP }}
+          template: ./100DaysofCodeARMTemplates/Day9of100/azuredeploy.json
+  
