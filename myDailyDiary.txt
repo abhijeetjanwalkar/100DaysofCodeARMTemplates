@@ -111,10 +111,18 @@ I finished and practiced following sections today.
 2) https://docs.microsoft.com/en-us/learn/modules/extend-resource-manager-template-deployment-scripts/5-exercise-parameterize-deployment-script?pivots=powershell
 3) https://docs.microsoft.com/en-us/learn/modules/extend-resource-manager-template-deployment-scripts/6-knowledge-check-deployment-scripts
 4) https://docs.microsoft.com/en-us/learn/modules/extend-resource-manager-template-deployment-scripts/7-summary
-5) https://docs.microsoft.com/en-us/learn/modules/extend-resource-manager-template-deployment-scripts/7-summary
+
  
 I need to either put this as optional or further explore this when doing deep investigation of ARM templates.
 For time being i m trying to understand what is written in the course and how best i can implement.
+
+Day12of100 Date 05/02/2021
+I finished and practiced following sections today.
+1) https://docs.microsoft.com/en-us/learn/modules/manage-deployments-advanced-arm-template-features/1-introduction
+2) https://docs.microsoft.com/en-us/learn/modules/manage-deployments-advanced-arm-template-features/2-dependencies
+3) https://docs.microsoft.com/en-us/learn/modules/manage-deployments-advanced-arm-template-features/3-dependencies-exercise
+4) 
+5) 
 
 Dayxxof100 Date 0x/02/2021
 I finished and practiced following sections today.
