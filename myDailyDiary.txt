@@ -121,10 +121,18 @@ I finished and practiced following sections today.
 1) https://docs.microsoft.com/en-us/learn/modules/manage-deployments-advanced-arm-template-features/1-introduction
 2) https://docs.microsoft.com/en-us/learn/modules/manage-deployments-advanced-arm-template-features/2-dependencies
 3) https://docs.microsoft.com/en-us/learn/modules/manage-deployments-advanced-arm-template-features/3-dependencies-exercise
-4) 
-5) 
 
-Dayxxof100 Date 0x/02/2021
+
+Day13of100 Date 06/02/2021
+I finished and practiced following sections today.
+1) https://docs.microsoft.com/en-us/learn/modules/manage-deployments-advanced-arm-template-features/4-secure-parameters
+2) https://docs.microsoft.com/en-us/learn/modules/manage-deployments-advanced-arm-template-features/5-secure-parameters-exercise?pivots=powershell
+3) https://docs.microsoft.com/en-us/learn/modules/manage-deployments-advanced-arm-template-features/6-conditions
+4) 
+5)
+
+
+Day1xof100 Date 0x/02/2021
 I finished and practiced following sections today.
 1) 
 2) 
