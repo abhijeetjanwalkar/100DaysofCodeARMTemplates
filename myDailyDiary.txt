@@ -132,6 +132,19 @@ I finished and practiced following sections today.
 5)
 
 
+Day14of100 Date 07/02/2021
+I finished and practiced following sections today.
+1) https://docs.microsoft.com/en-us/learn/modules/manage-deployments-advanced-arm-template-features/7-conditions-exercise?pivots=powershell
+2) https://docs.microsoft.com/en-us/learn/modules/manage-deployments-advanced-arm-template-features/8-copy
+3) https://docs.microsoft.com/en-us/learn/modules/manage-deployments-advanced-arm-template-features/9-copy-exercise?pivots=powershell
+4) https://docs.microsoft.com/en-us/learn/modules/manage-deployments-advanced-arm-template-features/10-knowledge-check
+5) https://docs.microsoft.com/en-us/learn/modules/manage-deployments-advanced-arm-template-features/10-knowledge-check
+6) https://docs.microsoft.com/en-us/learn/modules/manage-deployments-advanced-arm-template-features/11-summary
+Today, I Finished microsoft course "Deploy and manage resources in Azure by using ARM templates" 
+Also looked what can be picked up from tomorrow.
+From tomorrow, will start official MS documentation on ARM with following link.
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/
+Also plan is to explore Azure Quickstart Templates at  https://azure.microsoft.com/en-us/resources/templates/
 Day1xof100 Date 0x/02/2021
 I finished and practiced following sections today.
 1) 
